@@ -1,0 +1,14 @@
+loc_num : 지점
+loc_name : 지점명
+date : 일시
+temp : 평균기온(°C)
+l_temp : 최저기온(°C)
+h_temp : 최고기온(°C)
+rain_per_day : 일강수량(mm)
+wind : 평균 풍속(m/s)
+dew : 평균 이슬점온도(°C)
+humidity : 평균 상대습도(%)
+steam_pressure : 평균 증기압(hPa)
+sunshine_time : 합계 일조시간(hr)
+sunshine : 합계 일사량(MJ/m2)
+ground_surface_temp : 평균 지면온도(°C)
