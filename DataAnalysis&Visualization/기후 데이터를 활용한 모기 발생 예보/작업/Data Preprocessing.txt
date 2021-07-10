@@ -1,0 +1,9 @@
+1. 누적 강수일 column 추가 → cum_rain
+
+
+2. 결측치 제거
+분석 시 사용하지 않는 최고기온(h_temp)을 제외하고,
+wind, sunshine, sunshine_time은 앞뒤 3일의 평균값으로 대체
+
+
+3. 현재, 7일 전, 14일 전 데이터 구축

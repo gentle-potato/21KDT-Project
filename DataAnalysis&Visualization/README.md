@@ -34,7 +34,7 @@
 
 
 
-### 기후 데이터를 활용한 모기 발생 개체수 예측
+### 기후 데이터를 활용한 모기 발생 예보
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-#### 변수 설명
+##### 변수 설명
 
 목표변수 : **모기 발생 개체수**
 
@@ -153,9 +153,9 @@
 - sunshine_time : 합계 일조시간(hr)
 - sunshine : 합계 일사량(MJ/m2)
 - ground_surface_temp : 평균 지면온도(°C)
-- <span style="color:brown">**지역별 녹지 비율**</span>
+- <span style="color:brown">**지역별 녹지 비율**</span>(보류)
   - 연도별 지정
-- <span style="color:brown">**CO2 농도**</span>
+- <span style="color:brown">~~**CO2 농도**~~</span>
   - 안면도 관측 자료가 우리나라 전체 이산화탄소 농도를 나타냄
 
 
@@ -180,30 +180,27 @@
 
    - 시각화 부분 참고
    - https://www.kdca.go.kr/board/board.es?mid=a20602010000&bid=0034&act=view&list_no=712903#
-
 2. 2020년 국내 말라리아매개모기 감시 현황
 
    - 출처 : 질병관리청
 
    - 일본뇌염과 말라리아 비교
-
 3. **부산광역시 2020년 일본뇌엽매개모기 밀도조사 보고**
 
    - 유문등 운영 방법
-
 4. **모기 활동성 예측을 위한 기상 데이터에서 인접성 향상을 위한 연구**
    - p.18 : <span style="color:blue">**DMS 채집 결과와 날씨 데이터 정리 예시**</span>
-
 5. <span style="color:purple">**★동네예보자료를 활용한 수도권 모기예측 지수 개발**</span>
    - 모기지수 개발 배경 및 개요
-
 6. <span style="color:purple">**★황세영(2020)_머신러닝 기반 기후 데이터를 활용한 모기 개체수 예측**</span>
    - <span style="color:red">**분석방법 예시**</span>
-
 7. **한국의 스마트 모기 모니터링 시스템의 도입 안산시 친환경 모기방제 방법 시행**
    - 전체적으로 참고하면 좋을 듯한 자료
    - 하지만...! 영어...
    - http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b780daa5b8af0cdeffe0bdc3ef48d419&outLink=K
+8. **수도권기상청, 날씨처럼 모기를 예측**
+   - DMS와 유문등의 작동 원리
+9. <span style="color:red">**★기상자료와 GIS 활용 수도권 모기 활동지수 개발**</span>
 
 
 
