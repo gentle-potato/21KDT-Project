@@ -6,6 +6,7 @@ l_temp : 최저기온(°C)
 h_temp : 최고기온(°C)
 rain_per_day : 일강수량(mm)
 cum_rain : 누적 강수일
+accum_rain : 누적 강수량(mm)
 wind : 평균 풍속(m/s)
 dew : 평균 이슬점온도(°C)
 humidity : 평균 상대습도(%)
