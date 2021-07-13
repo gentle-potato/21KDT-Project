@@ -137,14 +137,15 @@
 입력변수 : 
 
 - temp : 평균기온(°C)
-
 - - <span style="color:brown">**평균기온도 encoding?**</span>
 - l_temp : 최저기온(°C)
   - <span style="color:brown">~~**encoding : 섭씨 10도 미만 → 0, 이상 → 1**~~</span>
 - h_temp : 최고기온(°C)
   - <span style="color:brown">~~**encoding : 섭씨 33도 미만 → 1, 이상 → 0**~~</span>
 - rain_per_day : 일강수량(mm)
-- <span style="color:purple">**누적강수일**</span>
+- <span style="color:purple">~~**누적강수일**~~</span>
+  - <span style="color:brown">**파생변수**</span>
+- <span style="color:purple">**accum_rain : 누적강수량(mm)**</span>
   - <span style="color:brown">**파생변수**</span>
 - wind : 평균 풍속(m/s)
 - dew : 평균 이슬점온도(°C)
